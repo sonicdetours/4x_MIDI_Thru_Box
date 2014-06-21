@@ -15667,7 +15667,7 @@ Source: www.kingbright.com</description>
 </class>
 </classes>
 <parts>
-<part name="J1" library="con-jack2" deviceset="JACK-PLUG" device="2" value="xx amps"/>
+<part name="J1" library="con-jack2" deviceset="JACK-PLUG" device="2" value="9V DC"/>
 <part name="IC1" library="v-reg" deviceset="78XXS" device="" value="7805"/>
 <part name="C1" library="rcl" deviceset="CPOL-EU" device="TT2D6" value="47uF"/>
 <part name="C2" library="rcl" deviceset="CPOL-EU" device="TT2D6" value="0.1uF"/>
@@ -15700,8 +15700,8 @@ Source: www.kingbright.com</description>
 <part name="GND1" library="SparkFun" deviceset="GND" device=""/>
 <part name="C3" library="rcl" deviceset="C-EU" device="025-024X044" value="100nF"/>
 <part name="GND2" library="SparkFun" deviceset="GND" device=""/>
-<part name="LED2" library="led" deviceset="LED" device="3MM" value="Red"/>
-<part name="LED1" library="led" deviceset="LED" device="3MM" value="Green"/>
+<part name="LED2" library="led" deviceset="LED" device="3MM" value="Midi In"/>
+<part name="LED1" library="led" deviceset="LED" device="3MM" value="Power"/>
 <part name="R2" library="rcl" deviceset="R-US_" device="0204/7" value="330"/>
 </parts>
 <sheets>
