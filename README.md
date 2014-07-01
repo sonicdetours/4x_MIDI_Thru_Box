@@ -1,9 +1,6 @@
 DIY 4x MIDI Thru Box with LED
 =============================
 
-Once completed, this project will contain:
+This project contains schematic, PCB layout and Bill of Materials for DIY 4 x MIDI Thru box with Activity LED.
 
-- Schematics
-- PCB layout
-- Acrylic enclosure design
-- Bill of Materials
+See http://www.sonicdetours.com/2014/06/simple-diy-project-4-x-midi-thru-box.html
